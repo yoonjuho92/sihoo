@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # tokki_game
 # tokki_game
 # game_example
+# sihoo
